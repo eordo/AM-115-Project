@@ -1,0 +1,4 @@
+ALPHA = 0.15
+BETA  = 4.0
+KAPPA = 0.5
+THETA = 1.0
